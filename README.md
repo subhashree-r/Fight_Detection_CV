@@ -9,4 +9,4 @@ The feature extraction methods used:
 
 Classifiers used:
 1. SVM
-2. CNN
+2. Softmax
