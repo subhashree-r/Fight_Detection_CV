@@ -6,6 +6,7 @@ The feature extraction methods used:
 1. Spatial Temporal Interest Points
 2. Augmented Affine Trajecton
 3. CNN
+
 Classifiers used:
 1. SVM
 2. CNN
